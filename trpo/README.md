@@ -1,4 +1,4 @@
-# 📚 Bash-скриптинг: Практические задания ИПо9581 Роденко Вениамин
+# 📚 Bash-скриптинг: Практические задания ИПо9581 Голиков Вадим
 
 ![Bash Logo](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
