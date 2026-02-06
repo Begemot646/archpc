@@ -1,3 +1,5 @@
-# archpc
-https://www.falstad.com/circuit/circuitjs.html
-(nX and(Y or Z)) or ((nX-> nnY) or Z)
+# **Навигация**
+
+# [Архитектура аппаратных средств] (./archpc)
+# [Внедрение и поддержка комп. систем] (/pcsys)
+# [Компьютерные сети] (/seti)
