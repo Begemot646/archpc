@@ -7,7 +7,7 @@
 ```shell
 mkdir my-site && cd my-site && touch index.html
 ```
-[alt text](image-1.png)
+![alt text](image-1.png)
 
 ```shell
 echo '<h1>Hello Docker!</h1>' > index.html
