@@ -12,7 +12,7 @@ mkdir my-site && cd my-site && touch index.html
 ```shell
 echo '<h1>Hello Docker!</h1>' > index.html
 ```
-![](./img/apachi/Apache+StaticSite/vtooroe.png)
+![alt text](image-2.png)
 > Чтобы в веб-странице поддерживался русский язык, вставьте тэг `<meta charset="UTF-8">`
 
 #### Запустите **Apache** с монтированием папки (для Windows)
@@ -36,7 +36,7 @@ docker run -d `
   -v $(pwd):/usr/local/apache2/htdocs `
   httpd:alpine
 ```
-![](./img/apachi/Apache+StaticSite/trettee.png)
+![alt text](image-3.png)
 
 
 для **Git-Bash/Linux/WSL 2.0/Mac**
